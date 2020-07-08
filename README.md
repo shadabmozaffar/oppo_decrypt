@@ -1,5 +1,5 @@
 # oppo_decrypt
-Oppo .ops Firmware decrypter
+Oppo .ofp Firmware decrypter
 ------------------------------------
 Works for oppo only, not oneplus !
 
@@ -12,7 +12,8 @@ Based on python 3.x
 Installation:
 -------------
 pip3 install pycrypto
-
+or
+pip3 install pycryptodome
 
 Both Linux and Windows now, folks !
 
